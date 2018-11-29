@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NeurIPS 2018 on Yifang Fu</title>
+    <link>https://yifangfu.github.io/tags/neurips-2018/</link>
+    <description>Recent content in NeurIPS 2018 on Yifang Fu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 05 Sep 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://yifangfu.github.io/tags/neurips-2018/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Probabilistic Neural Programmed Networks for Scene Generation</title>
+      <link>https://yifangfu.github.io/publication/scene-generation/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://yifangfu.github.io/publication/scene-generation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
